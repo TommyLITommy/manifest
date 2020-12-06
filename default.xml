@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin" fetch="https://github.com/TommyLITommy/"/>
-  <default revision="main" remote="origin" sync-j="4"/>
-  <project path="manifest" name="manifest"/>
+  <default revision="master" remote="origin" sync-j="4"/>
   <project path="ly_smart_band" name="ly_smart_band"/>
   <project path="ly_qt_serial_port" name="ly_qt_serial_port"/>
 </manifest>
