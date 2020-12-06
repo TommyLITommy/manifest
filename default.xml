@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch=".."/>
+  <default revision="refs/heads/marshmallow-6.0" remote="origin" sync-j="4"/>
+  <project path="manifest" name="manifest"/>
+  <project path="ly_smart_band" name="ly_smart_band"/>
+  <project path="ly_qt_serial_port" name="ly_qt_serial_port"/>
+</manifest>
